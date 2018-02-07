@@ -1,0 +1,7 @@
+# host file for adaway
+
+127.0.0.1 lite-ra.com
+127.0.0.1 asahi.com
+127.0.0.1 kyoko-np.net
+127.0.0.1 yayuyo.org
+127.0.0.1 news-lie.net
