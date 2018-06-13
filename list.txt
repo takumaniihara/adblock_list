@@ -6,3 +6,4 @@
 127.0.0.1 www.yayuyo.org
 127.0.0.1 www.news-lie.net
 127.0.0.1 www.rocketnews24.com
+127.0.0.1 rocketnews24.com
